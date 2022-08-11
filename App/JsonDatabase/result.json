@@ -1,0 +1,30 @@
+{
+    "sensor_data": [
+        {
+            "tagName": "Temperature",
+            "value": 31.3
+        },
+        {
+            "tagName": "Pressure",
+            "value": 71.3
+        },
+        {
+            "tagName": "Flow",
+            "value": 140.8
+        },
+        {
+            "tagName": "LDR",
+            "value": 610.9
+        },
+        {
+            "tagName": "Vibration",
+            "value": 610.9
+        }
+    ],
+    "last_updated_timestamp": "2022-08-11 19:03:30.333274",
+    "gps_data": {
+        "longitude": "80.270721 N",
+        "latitude": "13.082680 E",
+        "SignalStrength": "Low"
+    }
+}
